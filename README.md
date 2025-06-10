@@ -82,3 +82,4 @@
   </script>
 </body>
 </html>
+<a href="search.html">Търсачка</a>
